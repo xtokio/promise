@@ -1,7 +1,5 @@
 # Crystal Lang Promises
 
-[![CI](https://github.com/spider-gazelle/promise/actions/workflows/ci.yml/badge.svg)](https://github.com/spider-gazelle/promise/actions/workflows/ci.yml)
-
 Provides a fully typed implementation of promises for crystal lang.
 
 ## A word of advice
